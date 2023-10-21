@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EX-4</string>
+
+    <string-array name="city_name">
+        <item>新北市</item>
+        <item>台北市</item>
+        <item>桃園市</item>
+    </string-array>
+    <string-array name="city_picture">
+        <item>@drawable/newtaipei_1</item>
+        <item>@drawable/taipei101</item>
+        <item>@drawable/taoyuan_1</item>
+    </string-array>
+    <string-array name="newtaipei_food">
+        <item>臭豆腐</item>
+        <item>魯肉飯</item>
+        <item>涼麵</item>
+        <item>烏龍茶</item>
+    </string-array>
+    <string-array name="taipei_food">
+        <item>芋頭冰</item>
+        <item>烤玉米</item>
+        <item>淡水鐵蛋</item>
+        <item>小籠包</item>
+    </string-array>
+    <string-array name="taoyuan_food">
+        <item>蛋黃酥</item>
+        <item>客家菜包</item>
+        <item>養生饅頭</item>
+        <item>斜坡粉漿蛋餅</item>
+    </string-array>
+</resources>
